@@ -59,7 +59,7 @@ The analysis focused on price trends from 2017 to 2024, including:
 
 ### Performance Metrics:
 
-To assess performance, the difference between yearly lowest and highest prices was calculated for each cryptocurrency from 2020 to 2024. Rankings were then adjusted based on this analysis. The top five performers were Bitcoin, Ethereum, Binance Coin, Solana, and Avalanche.
+To assess performance, the difference between yearly open(lowest) and close(highest) prices was calculated for each cryptocurrency from 2020 to 2024. Rankings were then adjusted based on this analysis. The top five performers were Bitcoin, Ethereum, Binance Coin, Solana, and Avalanche.
 Key Observations:
 - Bitcoin consistently dominated trade volume and market share across the years.
 - Other cryptocurrencies, such as Ethereum and Binance Coin, also demonstrated strong growth.
