@@ -3,28 +3,31 @@ project_01
 ## Introduction
 ### What is Cryptocurrency?
 Cryptocurrency, often referred to as crypto, is a type of digital or virtual currency that uses cryptography for security. Unlike traditional currencies, cryptocurrencies operate without a central issuing or regulatory authority, relying instead on a decentralized system to record transactions and issue new units. Cryptocurrencies enable peer-to-peer transactions, allowing individuals to send and receive payments anywhere in the world without the need for banks to verify transactions.
+
 Instead of existing as physical money, cryptocurrency transactions are recorded as digital entries in an online ledger. These transactions are stored in digital wallets and verified using encryption techniques to ensure security and integrity. The first and most well-known cryptocurrency, Bitcoin, was created in 2009. Today, many individuals are drawn to cryptocurrencies for trading and investment, often speculating on price movements.
 ### How Does Cryptocurrency Work?
 Cryptocurrencies operate on a distributed public ledger known as blockchain. The blockchain maintains a secure and transparent record of all transactions, which is continuously updated by the network’s participants.
+
 Cryptocurrency units are generated through mining, a process involving the use of computational power to solve complex mathematical problems. Alternatively, users can purchase cryptocurrencies from brokers and store them in cryptographic wallets. Ownership of cryptocurrency does not equate to holding a tangible asset but rather a key that enables the transfer of a recorded unit of measure on the blockchain.
-Cryptocurrency Examples
+
+### Cryptocurrency Examples
 Thousands of cryptocurrencies exist today, but some of the most notable include:
-•	Bitcoin (BTC): The first cryptocurrency, created in 2009 by an entity known as Satoshi Nakamoto. It remains the most widely traded cryptocurrency.
+•	**Bitcoin (BTC):** The first cryptocurrency, created in 2009 by an entity known as Satoshi Nakamoto. It remains the most widely traded cryptocurrency.
 •	Ethereum (ETH): Launched in 2015, Ethereum is a blockchain platform that supports its own cryptocurrency, Ether. It is the second most popular cryptocurrency.
 •	Litecoin (LTC): A cryptocurrency similar to Bitcoin, Litecoin offers faster transaction times and innovative features.
 •	Ripple (XRP): Ripple’s distributed ledger system, launched in 2012, supports various types of transactions beyond cryptocurrency. Ripple has collaborated with several financial institutions.
 Dataset in Cryptocurrency
 The dataset used in this project includes daily historical price data for various cryptocurrencies, starting from April 28, 2013. Key attributes of the dataset include:
-- ## Date:## Date of observation.
-- ## Open:## Opening price for the day.
-- ## High:## Highest price of the day.
-- ## Low:## Lowest price of the day.
-- ## Close:## Closing price for the day.
-- ## Time:## The hour of the day
-- ## Volume:## Total number of transactions for the day.
-- ## Market Cap:## Total market capitalization in USD.
-- ## Circulating Supply:## Total number of coins or tokens available for trading.
-Key Metrics:
+- **Date:** Date of observation.
+- **Open:** Opening price for the day.
+- **High:** Highest price of the day.
+- **Low:** Lowest price of the day.
+- **Close:** Closing price for the day.
+- **Time:** The hour of the day
+- **Volume:** Total number of transactions for the day.
+- **Market Cap:** Total market capitalization in USD.
+- **Circulating Supply:** Total number of coins or tokens available for trading.
+### Key Metrics:
 •	Market Cap: Measures the total value of a cryptocurrency, calculated as the current price multiplied by the circulating supply. Market cap helps rank cryptocurrencies, assess growth potential, and evaluate market sentiment.
 •	Volume: Indicates the total number of coins traded within a specific timeframe, reflecting market activity and liquidity.
 •	Circulating Supply: Represents the total number of coins currently available in the market for trading.
