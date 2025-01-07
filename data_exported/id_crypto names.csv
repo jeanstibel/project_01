@@ -1,0 +1,51 @@
+﻿crypto_id,id_name
+BTC,Bitcoin
+ETH,Ethereum
+BNB,Binance Coin
+NEO,NEO
+LTC,Litecoin
+QTUM,Qtum
+ADA,Cardano
+EOS,EOS.IO
+IOTA,IOTA
+XLM,Stellar
+XRP,Ripple
+ETC,Ethereum Classic
+TRX,TRON
+VET,VeChain
+LINK,Chainlink
+WAVES,Waves
+ZIL,Zilliqa
+BAT,Basic Attention Token
+DASH,Dash
+IOST,IOST
+ZEC,Zcash
+ATOM,Cosmos
+ENJ,Enjin Coin
+MATIC,Polygon
+THETA,Theta Network
+TFUEL,Theta Fuel
+ALGO,Algorand
+DOGE,Dogecoin
+CHZ,Chiliz
+HBAR,Hedera
+RVN,Ravencoin
+XTZ,Tezos
+BCH,Bitcoin Cash
+STMX,StormX
+CRV,Curve DAO Token
+DOT,Polkadot
+MANA,Decentraland
+SAND,The Sandbox
+SOL,Solana
+AVAX,Avalanche
+SUSHI,SushiSwap
+UNI,Uniswap
+AAVE,Aave
+FIL,Filecoin
+NEAR,NEAR Protocol
+XEM,NEM
+GRT,The Graph
+CAKE,PancakeSwap
+ICP,Internet Computer
+SHIB,Shiba Inu
