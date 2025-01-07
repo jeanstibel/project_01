@@ -1,5 +1,5 @@
-# project_01
-project_01
+## Project_01
+
 ## Introduction
 
 ### What is Cryptocurrency?
@@ -49,7 +49,7 @@ The project uses two primary data sources:
 
 Initially, data from Coin Stats API was acquired for cryptocurrencies ranked from 1 to 19. Subsequently, historical data from Kaggle was cross-referenced to identify 13 cryptocurrencies with complete historical records. These included Bitcoin, Ethereum, Ripple, Binance Coin, Solana, Dogecoin, Cardano, Tron, Avalanche, Chainlink, Shiba Inu, Stellar, and Polkadot.
 
-### Analysis and Insights
+## Analysis and Insights
 
 ### Historical Performance:
 
